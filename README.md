@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">Studying Software Engineering at Adana Alparslan Türkeş Science & Technology University</h3>
 
-- 🌱 I’m currently learning **Java, C#, SQL**
+- 🌱 I’m currently learning **Python, C#, SQL**
 
 - 📫 How to reach me **alibatuhan404@gmail.com**
 
